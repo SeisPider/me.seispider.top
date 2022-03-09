@@ -14,10 +14,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.9.1
+
+      - uses: actions/checkout@v3
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0     # Fetch all history for .GitInfo and .Lastmod
+          submodules: 'true'  # Fetch Hugo themes (true OR recursive)
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -26,7 +28,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo
+        run: make all 
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
