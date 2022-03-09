@@ -3,7 +3,7 @@
 #
 build:
 	# Build the site
-	hugo --minify
+	hugo 
 
 serve:
 	hugo server --disableFastRender
