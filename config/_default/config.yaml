@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Xiao Xiao # Website name
-baseURL: '~xiaox17' # Website URL
+baseURL: 'https://me.seispider.info/' # Website URL
 
 ############################
 ## LANGUAGE
