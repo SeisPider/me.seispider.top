@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Xiao Xiao</title>
-    <link>~xiaox17/publication/</link>
-      <atom:link href="~xiaox17/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://me.seispider.info/publication/</link>
+      <atom:link href="https://me.seispider.info/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/~xiaox17/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://me.seispider.info/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>~xiaox17/publication/</link>
+      <link>https://me.seispider.info/publication/</link>
     </image>
     
     <item>
       <title>Crustal thickness and Vp/Vs variation beneath continental China revealed by receiver function analysis</title>
-      <link>~xiaox17/publication/2022_china-seismic-structure-moho/</link>
+      <link>https://me.seispider.info/publication/2022_china-seismic-structure-moho/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>~xiaox17/publication/2022_china-seismic-structure-moho/</guid>
+      <guid>https://me.seispider.info/publication/2022_china-seismic-structure-moho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shallow seismic structure beneath China revealed by P wave polarization, Rayleigh wave ellipticity and receiver function</title>
-      <link>~xiaox17/publication/2021_china-seismic-structure-shallow-crust/</link>
+      <link>https://me.seispider.info/publication/2021_china-seismic-structure-shallow-crust/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>~xiaox17/publication/2021_china-seismic-structure-shallow-crust/</guid>
+      <guid>https://me.seispider.info/publication/2021_china-seismic-structure-shallow-crust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment of COSMIC radio occultation water vapor profile</title>
-      <link>~xiaox17/publication/2017_assessment-of-cosmic-radio/</link>
+      <link>https://me.seispider.info/publication/2017_assessment-of-cosmic-radio/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>~xiaox17/publication/2017_assessment-of-cosmic-radio/</guid>
+      <guid>https://me.seispider.info/publication/2017_assessment-of-cosmic-radio/</guid>
       <description></description>
     </item>
     

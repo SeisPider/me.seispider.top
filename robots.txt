@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: ~xiaox17/sitemap.xml
+Sitemap: https://me.seispider.info/sitemap.xml

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Xiao Xiao</title>
-    <link>~xiaox17/project/</link>
-      <atom:link href="~xiaox17/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://me.seispider.info/project/</link>
+      <atom:link href="https://me.seispider.info/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/~xiaox17/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://me.seispider.info/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>~xiaox17/project/</link>
+      <link>https://me.seispider.info/project/</link>
     </image>
     
     <item>
       <title>China Shallow Seismic Structure</title>
-      <link>~xiaox17/project/china-shallow-seismic-structure/</link>
+      <link>https://me.seispider.info/project/china-shallow-seismic-structure/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>~xiaox17/project/china-shallow-seismic-structure/</guid>
+      <guid>https://me.seispider.info/project/china-shallow-seismic-structure/</guid>
       <description>&lt;p&gt;Goal of this project are two folds: 1) understanding the compositional and thermal states of bedrocks in the upper crust of the Contiental China and 2) constructing a reference shallow seismic model for future studies of imaging deeper seismic structure.&lt;/p&gt;
 &lt;h3 id=&#34;shallow-seismic-structure-beneath-the-continental-china&#34;&gt;Shallow seismic structure beneath the Continental China&lt;/h3&gt;
 
@@ -36,10 +36,10 @@
 &lt;figure  id=&#34;figure-shallow-3d-shear-wave-velocity-model-beneath-the-continental-china&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shallow seismic structure beneath the continental China&#34; srcset=&#34;
-               /~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp 400w,
-               /~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_4743a3c825e8552106ec63dcf8390ee9.webp 760w,
-               /~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;~xiaox17/~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp&#34;
+               /project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp 400w,
+               /project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_4743a3c825e8552106ec63dcf8390ee9.webp 760w,
+               /project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://me.seispider.info/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp&#34;
                width=&#34;720&#34;
                height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
