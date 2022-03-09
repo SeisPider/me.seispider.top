@@ -1,45 +1,141 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xiao Xiao</title><link>~xiaox17/</link><atom:link href="~xiaox17/index.xml" rel="self" type="application/rss+xml"/><description>Xiao Xiao</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><image><url>/~xiaox17/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Xiao Xiao</title><link>~xiaox17/</link></image><item><title>China Shallow Seismic Structure</title><link>~xiaox17/project/china-shallow-seismic-structure/</link><pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate><guid>~xiaox17/project/china-shallow-seismic-structure/</guid><description>&lt;p>Goal of this project are two folds: 1) understanding the compositional and thermal states of bedrocks in the upper crust of the Contiental China and 2) constructing a reference shallow seismic model for future studies of imaging deeper seismic structure.&lt;/p>
-&lt;h3 id="shallow-seismic-structure-beneath-the-continental-china">Shallow seismic structure beneath the Continental China&lt;/h3>
-&lt;figure id="figure-shallow-3d-shear-wave-velocity-model-beneath-the-continental-china">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Shallow seismic structure beneath the continental China" srcset="
-/~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp 400w,
-/~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_4743a3c825e8552106ec63dcf8390ee9.webp 760w,
-/~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="~xiaox17/~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp"
-width="720"
-height="540"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
-Shallow 3D shear wave velocity model beneath the continental China
-&lt;/figcaption>&lt;/figure></description></item><item><title>Crustal thickness and Vp/Vs variation beneath continental China revealed by receiver function analysis</title><link>~xiaox17/publication/2022_china-seismic-structure-moho/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>~xiaox17/publication/2022_china-seismic-structure-moho/</guid><description/></item><item><title>Shallow seismic structure beneath China revealed by P wave polarization, Rayleigh wave ellipticity and receiver function</title><link>~xiaox17/talk/china-shallow-seismic-structure/</link><pubDate>Sun, 14 Nov 2021 16:00:00 +0800</pubDate><guid>~xiaox17/talk/china-shallow-seismic-structure/</guid><description/></item><item><title>Shallow seismic structure beneath China revealed by P wave polarization, Rayleigh wave ellipticity and receiver function</title><link>~xiaox17/publication/2021_china-seismic-structure-shallow-crust/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>~xiaox17/publication/2021_china-seismic-structure-shallow-crust/</guid><description/></item><item><title>Assessment of COSMIC radio occultation water vapor profile</title><link>~xiaox17/publication/2017_assessment-of-cosmic-radio/</link><pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate><guid>~xiaox17/publication/2017_assessment-of-cosmic-radio/</guid><description/></item><item><title>Curriculum Vitae</title><link>~xiaox17/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>~xiaox17/cv/</guid><description>&lt;p>&lt;a href="~xiaox17/uploads/XiaoX_CV.pdf">
-&lt;i class="fas fa-file-pdf pr-1 fa-fw">&lt;/i>Download my full CV here&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;h3 id="education">Education&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>2023&lt;/strong>: Ph.D in Geophysics (Expected),
-&lt;a href="http://en.ustc.edu.cn/" target="_blank" rel="noopener">University of Science and Technology of China&lt;/a>, Hefei, China&lt;/li>
-&lt;li>&lt;strong>2017&lt;/strong>: B.S. in Geophysics,
-&lt;a href="https://en.whu.edu.cn/" target="_blank" rel="noopener">Wuhan University&lt;/a>, Wuhan, China&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="professional-societies--services">Professional Societies &amp;amp; Services&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Spring, 2019:&lt;/strong> Student Organizer of “Weekly Graduate Student Seminar of Geophysics, USTC”&lt;/li>
-&lt;li>&lt;strong>2017 &amp;ndash; 2017:&lt;/strong> Assist in coordinating exchange meeting of China Seismological Reference Model work group&lt;/li>
-&lt;li>&lt;strong>2017 &amp;ndash; present:&lt;/strong> Member of the American Geophysical Union (AGU)&lt;/li>
-&lt;li>&lt;strong>2017 &amp;ndash; present:&lt;/strong> Research assistant and database manager for China Seismological Reference Model work group&lt;/li>
-&lt;li>&lt;strong>2016 &amp;ndash; present:&lt;/strong> Contributor of GMT China Community&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="awards--honors">Awards &amp;amp; Honors&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>2017:&lt;/strong> Outstanding undergraduate graduates of Wuhan University.&lt;/li>
-&lt;li>&lt;strong>2017:&lt;/strong> Outstanding undergraduate thesis of Wuhan University.&lt;/li>
-&lt;/ul></description></item><item><title>Recent News</title><link>~xiaox17/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>~xiaox17/news/</guid><description>&lt;h3 id="pre-2022">pre-2022&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Dec. 25, 2018&lt;/strong>:
-Xiao Xiao joined AGU 2018 Fall meeting (10-14 Dec. 2018) at washington D.C., USA and presented a poster &lt;a href="https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/388193" target="_blank" rel="noopener">Link&lt;/a>.&lt;/li>
-&lt;li>&lt;strong>Dec. 27, 2019&lt;/strong>:
-Xiao Xiao joined AGU 2019 Fall meeting (9-13 Dec. 2019) at San Francisco CA, USA and presented a poster &lt;a href="https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/581056" target="_blank" rel="noopener">Link&lt;/a>.&lt;/li>
-&lt;/ul></description></item><item><title>Research</title><link>~xiaox17/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>~xiaox17/research/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao Xiao</title>
+    <link>~xiaox17/</link>
+      <atom:link href="~xiaox17/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiao Xiao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/~xiaox17/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiao Xiao</title>
+      <link>~xiaox17/</link>
+    </image>
+    
+    <item>
+      <title>China Shallow Seismic Structure</title>
+      <link>~xiaox17/project/china-shallow-seismic-structure/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>~xiaox17/project/china-shallow-seismic-structure/</guid>
+      <description>&lt;p&gt;Goal of this project are two folds: 1) understanding the compositional and thermal states of bedrocks in the upper crust of the Contiental China and 2) constructing a reference shallow seismic model for future studies of imaging deeper seismic structure.&lt;/p&gt;
+&lt;h3 id=&#34;shallow-seismic-structure-beneath-the-continental-china&#34;&gt;Shallow seismic structure beneath the Continental China&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-shallow-3d-shear-wave-velocity-model-beneath-the-continental-china&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shallow seismic structure beneath the continental China&#34; srcset=&#34;
+               /~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp 400w,
+               /~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_4743a3c825e8552106ec63dcf8390ee9.webp 760w,
+               /~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;~xiaox17/~xiaox17/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;540&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Shallow 3D shear wave velocity model beneath the continental China
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crustal thickness and Vp/Vs variation beneath continental China revealed by receiver function analysis</title>
+      <link>~xiaox17/publication/2022_china-seismic-structure-moho/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>~xiaox17/publication/2022_china-seismic-structure-moho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shallow seismic structure beneath China revealed by P wave polarization, Rayleigh wave ellipticity and receiver function</title>
+      <link>~xiaox17/talk/china-shallow-seismic-structure/</link>
+      <pubDate>Sun, 14 Nov 2021 16:00:00 +0800</pubDate>
+      <guid>~xiaox17/talk/china-shallow-seismic-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shallow seismic structure beneath China revealed by P wave polarization, Rayleigh wave ellipticity and receiver function</title>
+      <link>~xiaox17/publication/2021_china-seismic-structure-shallow-crust/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>~xiaox17/publication/2021_china-seismic-structure-shallow-crust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of COSMIC radio occultation water vapor profile</title>
+      <link>~xiaox17/publication/2017_assessment-of-cosmic-radio/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>~xiaox17/publication/2017_assessment-of-cosmic-radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>~xiaox17/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>~xiaox17/cv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;~xiaox17/uploads/XiaoX_CV.pdf&#34;&gt;
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Download my full CV here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2023&lt;/strong&gt;: Ph.D in Geophysics (Expected),
+&lt;a href=&#34;http://en.ustc.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Science and Technology of China&lt;/a&gt;, Hefei, China&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017&lt;/strong&gt;: B.S. in Geophysics,
+&lt;a href=&#34;https://en.whu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wuhan University&lt;/a&gt;, Wuhan, China&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;professional-societies--services&#34;&gt;Professional Societies &amp;amp; Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spring, 2019:&lt;/strong&gt; Student Organizer of “Weekly Graduate Student Seminar of Geophysics, USTC”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017 &amp;ndash; 2017:&lt;/strong&gt; Assist in coordinating exchange meeting of China Seismological Reference Model work group&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017 &amp;ndash; present:&lt;/strong&gt; Member of the American Geophysical Union (AGU)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017 &amp;ndash; present:&lt;/strong&gt; Research assistant and database manager for China Seismological Reference Model work group&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2016 &amp;ndash; present:&lt;/strong&gt; Contributor of GMT China Community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;awards--honors&#34;&gt;Awards &amp;amp; Honors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2017:&lt;/strong&gt; Outstanding undergraduate graduates of Wuhan University.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017:&lt;/strong&gt; Outstanding undergraduate thesis of Wuhan University.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent News</title>
+      <link>~xiaox17/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>~xiaox17/news/</guid>
+      <description>&lt;h3 id=&#34;pre-2022&#34;&gt;pre-2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dec. 25, 2018&lt;/strong&gt;:
+Xiao Xiao joined AGU 2018 Fall meeting (10-14 Dec. 2018) at washington D.C., USA and presented a poster &lt;a href=&#34;https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/388193&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dec. 27, 2019&lt;/strong&gt;:
+Xiao Xiao joined AGU 2019 Fall meeting (9-13 Dec. 2019) at San Francisco CA, USA and presented a poster &lt;a href=&#34;https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/581056&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>~xiaox17/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>~xiaox17/research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
