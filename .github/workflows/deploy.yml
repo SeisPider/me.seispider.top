@@ -1,0 +1,42 @@
+#
+# Build and deploy the website
+#
+name: Deploy
+
+# Run on master branch only
+on:
+  # pull_request: # enable pull_request for testing
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.9.1
+
+      - name: Checkout
+        uses: actions/checkout@v3
+        with: 
+          submodules: 'true'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2.5.0
+        with:
+          hugo-version: 0.87.0
+          extended: true
+
+      - name: Build the website
+        run: make all
+
+      - name: Deploy the website
+        uses: peaceiris/actions-gh-pages@068dc23d9710f1ba62e86896f84735d869951305
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          # Only keep the latest commit to avoid bloating the repository
+          force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
