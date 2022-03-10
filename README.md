@@ -8,6 +8,7 @@ This is the source code for my academic site.
 - Website: https://me.seispider.info
 - Theme from [wowchemy theme](https://wowchemy.com/)
 - Build by [Hugo](https://gohugo.io/)
+- Modified from [SeisMan](https://me.seisman.info/) and [CoreMan](https://core-man.github.io/academic/)
 
 ### Build the site locally
 
