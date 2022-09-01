@@ -13,12 +13,11 @@
     </image>
     
     <item>
-      <title>China Shallow Seismic Structure</title>
-      <link>https://me.seispider.info/project/china-shallow-seismic-structure/</link>
+      <title>Shallow seismic structure beneath the contiental China</title>
+      <link>https://me.seispider.info/project/shallow-seismic-structure/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://me.seispider.info/project/china-shallow-seismic-structure/</guid>
-      <description>&lt;p&gt;Goal of this project are two folds: 1) understanding the compositional and thermal states of bedrocks in the upper crust of the Contiental China and 2) constructing a reference shallow seismic model for future studies of imaging deeper seismic structure.&lt;/p&gt;
-&lt;h3 id=&#34;shallow-seismic-structure-beneath-the-continental-china&#34;&gt;Shallow seismic structure beneath the Continental China&lt;/h3&gt;
+      <guid>https://me.seispider.info/project/shallow-seismic-structure/</guid>
+      <description>&lt;h3 id=&#34;shallow-3d-shear-wave-velocity-model-of-the-uppermost-crust-beneath-the-continental-china&#34;&gt;Shallow 3D shear wave velocity model of the uppermost crust beneath the continental China&lt;/h3&gt;
 
 
 
@@ -36,16 +35,17 @@
 &lt;figure  id=&#34;figure-shallow-3d-shear-wave-velocity-model-beneath-the-continental-china&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shallow seismic structure beneath the continental China&#34; srcset=&#34;
-               /project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp 400w,
-               /project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_4743a3c825e8552106ec63dcf8390ee9.webp 760w,
-               /project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://me.seispider.info/project/china-shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp&#34;
+               /project/shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp 400w,
+               /project/shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_4743a3c825e8552106ec63dcf8390ee9.webp 760w,
+               /project/shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://me.seispider.info/project/shallow-seismic-structure/shallowModel_hua29de5e9e743c238411ee190f294bb56_449276_dd865e1476c30d05cb99527885da0eeb.webp&#34;
                width=&#34;720&#34;
                height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Shallow 3D shear wave velocity model beneath the continental China
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;In this study, we construct a high-resolution shallow three-dimensional (3D) seismic model in the top 10 km of the upper crust in the continental China, with constraints of P polarization, Rayleigh wave ellipticity and receiver function obtained from records of 3848 seismic stations. Our 3D seismic model has a spatial resolution of $0.6°-1.2^°$ in the north-south seismic belt and the trans-north China orogen, and $1^°-2^°$ in the rest of the continental China (except the Tarim basin and the southwest Tibet). The seismic model exhibits low velocity anomalies of deposits in major sedimentary basins and high velocity anomalies of crustal bedrocks in young orogenic belts and old tectonic blocks. The inferred sediment thickness maps display thick deposits in major sedimentary basins, some compacted sediments in the intermontane basins in young orogenic belts and little sediments in old tectonic blocks. We also discuss compaction effects of the sediments and implications of tectonic history and geological evolution of the major basins in the continental China based on the inferred seismic models.&lt;/p&gt;
 </description>
     </item>
     
