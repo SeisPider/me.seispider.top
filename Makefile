@@ -5,7 +5,7 @@ build:
 	# Build the site
 	hugo 
 
-serve:
+server:
 	hugo server --disableFastRender
 
 clean:
