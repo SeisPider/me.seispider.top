@@ -9,7 +9,7 @@ authors:
 - Lianxing Wen
 
 date: "2022-09-01T00:00:00Z"
-doi: ""
+doi: "10.1029/2022JB024018"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-09-01T00:00:00Z"
