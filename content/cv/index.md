@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](/uploads/XiaoX_CV.pdf).
+[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](https://github.com/SeisPider/CV/blob/master/en/cv.pdf).
 
 ---
 
