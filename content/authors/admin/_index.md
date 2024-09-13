@@ -11,7 +11,7 @@ role: Postdoctral Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Nanyang Technological University
-  url: https://www.ustc.edu.cn/
+  url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include seismic tomography, earthquake location and geodynamic modelling.
@@ -64,6 +64,6 @@ email: "xiaox.seis@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-**Xiao Xiao** is a Postdoctral Research Fellow at the Nanyang Technological University, supervised by Prof. Ping Tong. He received PhD in Geophysics at [University of Science and Technology of China](http://en.ustc.edu.cn/) under the guidance of Prof. Lianxing Wen.
+**Xiao Xiao** is a Postdoctral Research Fellow at the Nanyang Technological University, supervised by Prof. [Ping Tong](https://personal.ntu.edu.sg/tongping/). He received PhD in Geophysics at [University of Science and Technology of China](http://en.ustc.edu.cn/) under the guidance of Prof. Lianxing Wen.
 
 His research is directed toward understanding the Earth's structure in the crust and upper mantle with seismological (e.g., seismic tomography and receiver function analysis) and geodynamical tools. 
