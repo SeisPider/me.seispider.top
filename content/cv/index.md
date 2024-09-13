@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](https://github.com/SeisPider/CV/blob/master/en/cv.pdf).
+[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](https://raw.githubusercontent.com/seispider/CV/master/en/cv.pdf).
 
 ---
 
