@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Simultaneous inversion for surface wave phase velocity and earthquake centroid parameters</title>
-      <link>https://me.seispider.info/project/simulataneous-inversion-phase-velocity-and-source/</link>
+      <title>Development and Application of Seismic Tomography Method</title>
+      <link>https://me.seispider.info/project/seismic-tomography-method/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://me.seispider.info/project/simulataneous-inversion-phase-velocity-and-source/</guid>
-      <description>&lt;h3 id=&#34;simultaneous-inversion-for-surface-wave-phase-velocity-and-earthquake-centroid-parameters&#34;&gt;Simultaneous inversion for surface wave phase velocity and earthquake centroid parameters&lt;/h3&gt;
+      <guid>https://me.seispider.info/project/seismic-tomography-method/</guid>
+      <description>&lt;h2 id=&#34;simultaneous-inversion-for-surface-wave-phase-velocity-and-earthquake-centroid-parameters&#34;&gt;Simultaneous inversion for surface wave phase velocity and earthquake centroid parameters&lt;/h2&gt;
+&lt;p&gt;We develope a new method to simultaneously determine surface wave phase velocity and earthquake centroid parameters in three steps: 1) preliminary phase velocity inversion based on seismic ambient noise, 2) preliminary earthquake relocation based on earthquake surface wave data, and 3) simultaneous inversion for phase velocity and earthquake centroid parameters with constraints of inter-station phase velocity measurements based on seismic ambient noise and event-station phase velocity measurements based on earthquake surface wave data. Application of the method in the North South Seismic Belt region in China results in high-resolution Rayleigh wave phase velocity maps and accurate earthquake centroid parameters. The additional earthquake data notably improve resolution of the inverted phase velocity model in west Yunnan and central Tibetan blocks, the regions with sparse seismic station coverage. The inverted phase velocity model exhibits high-velocity anomalies in cratonic regions and the Emeishan Large Igneous Province, and low-velocity anomalies in the interior and surrounding regions of the Tibetan Plateau. Relocation places earthquakes in shallow depths with geotherm above the crustal rock’s brittle-ductile transition temperature of ~400℃, revealing thermal control on thickness of the seismogenic zone. With earthquake centroid parameters constrained, earthquake data are expected to provide further constraints on the deep seismic structure that is beyond the sampling limit of seismic ambient noise.&lt;/p&gt;
 
 
 
@@ -35,17 +36,16 @@
 &lt;figure  id=&#34;figure-inverted-rayleigh-wave-phase-velocity-and-earthquake-centroid-parameters&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Inverted Rayleigh wave phase velocity and earthquake centroid parameters&#34; srcset=&#34;
-               /project/simulataneous-inversion-phase-velocity-and-source/Joint.inversion.structure_hu6fff696fa00cb8e78620b205c63f88d9_1033174_70840d9e8a044575ed8b9eca60074903.webp 400w,
-               /project/simulataneous-inversion-phase-velocity-and-source/Joint.inversion.structure_hu6fff696fa00cb8e78620b205c63f88d9_1033174_daa01b548a8202d8542afa8599ba9f2d.webp 760w,
-               /project/simulataneous-inversion-phase-velocity-and-source/Joint.inversion.structure_hu6fff696fa00cb8e78620b205c63f88d9_1033174_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://me.seispider.info/project/simulataneous-inversion-phase-velocity-and-source/Joint.inversion.structure_hu6fff696fa00cb8e78620b205c63f88d9_1033174_70840d9e8a044575ed8b9eca60074903.webp&#34;
+               /project/seismic-tomography-method/Joint.inversion.structure_hu6fff696fa00cb8e78620b205c63f88d9_1033174_70840d9e8a044575ed8b9eca60074903.webp 400w,
+               /project/seismic-tomography-method/Joint.inversion.structure_hu6fff696fa00cb8e78620b205c63f88d9_1033174_daa01b548a8202d8542afa8599ba9f2d.webp 760w,
+               /project/seismic-tomography-method/Joint.inversion.structure_hu6fff696fa00cb8e78620b205c63f88d9_1033174_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://me.seispider.info/project/seismic-tomography-method/Joint.inversion.structure_hu6fff696fa00cb8e78620b205c63f88d9_1033174_70840d9e8a044575ed8b9eca60074903.webp&#34;
                width=&#34;707&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Inverted Rayleigh wave phase velocity and earthquake centroid parameters
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;In this study, we address this issue by developing a new method to simultaneously determine surface wave phase velocity and earthquake centroid parameters in three steps: 1) preliminary phase velocity inversion based on seismic ambient noise, 2) preliminary earthquake relocation based on earthquake surface wave data, and 3) simultaneous inversion for phase velocity and earthquake centroid parameters with constraints of inter-station phase velocity measurements based on seismic ambient noise and event-station phase velocity measurements based on earthquake surface wave data. Application of the method in the North South Seismic Belt region in China results in high-resolution Rayleigh wave phase velocity maps and accurate earthquake centroid parameters. The additional earthquake data notably improve resolution of the inverted phase velocity model in west Yunnan and central Tibetan blocks, the regions with sparse seismic station coverage. The inverted phase velocity model exhibits high-velocity anomalies in cratonic regions and the Emeishan Large Igneous Province, and low-velocity anomalies in the interior and surrounding regions of the Tibetan Plateau. Relocation places earthquakes in shallow depths with geotherm above the crustal rock’s brittle-ductile transition temperature of ~400℃, revealing thermal control on thickness of the seismogenic zone. With earthquake centroid parameters constrained, earthquake data are expected to provide further constraints on the deep seismic structure that is beyond the sampling limit of seismic ambient noise.&lt;/p&gt;
 </description>
     </item>
     
