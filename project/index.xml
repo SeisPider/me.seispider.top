@@ -17,8 +17,9 @@
       <link>https://me.seispider.info/project/csrm/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://me.seispider.info/project/csrm/</guid>
-      <description>&lt;h2 id=&#34;csrm-10-a-china-seismological-reference-model-of-the-crust-and-uppermost-mantle&#34;&gt;CSRM-1.0: A China Seismological Reference Model of the crust and uppermost mantle&lt;/h2&gt;
-&lt;p&gt;We construct a high-resolution China Seismological Reference Model (CSRM-1.0) in the top 100 km of the crust and uppermost mantle in continental China following a top-down construction process. The employed seismic constraints include P-wave polarization angle from tele-seismic event, short-period Rayleigh wave ellipticity from ambient noise, long-period Rayleigh wave ellipticity from earthquake data, receiver function, empirical Green’s function from ambient noise, Rayleigh wave phase/group velocity dispersion curves from regional earthquakes, and Pn-wave travel time extracted from seismic data of 4435 stations. CSRM-1.0 has a spatial crustal resolution of ~60 km beneath the north-south seismic belt and trans-North China orogen regions and ~120 km beneath the rest of continental China, and a spatial mantle resolution of ~300 km. CSRM-1.0 exhibits prominent velocity heterogeneities in the crust and uppermost mantle and an eastward thinning of the crust, geographically correlating with geological settings. CSRM-1.0 improvements include accurate estimation of shallow seismic structure, increased spatial resolution and improved model accuracy. Crustal composition inferred from CSRM-1.0 exhibits a general transition from a felsic upper crust to a mafic lower crust. Mafic rocks in the lower crust are found predominantly along inter-block boundaries and sporadically within the interiors of blocks, likely resulted from preferential inter-block intrusions of magmas related to various oceanic plate subductions and the Emeishan mantle plume. This study contributes seismic constraints and CSRM-1.0 to the CSRM product center (&lt;a href=&#34;http://chinageorefmodel.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://chinageorefmodel.org&lt;/a&gt;) as a backbone open-access geophysical cyberinfrastructure.&lt;/p&gt;
+      <description>&lt;p&gt;The China Seismological Reference Model (CSRM) project was initiated in 2016 by a working group composed of seismologists from major seismological research institutions across China, with the support from the National Natural Science Foundation of China (&lt;a href=&#34;http://chinageorefmodel.org/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://chinageorefmodel.org/)&lt;/a&gt;. As a memeber of the CSRM construction group, following two studies conducted by me are parts of the entire CSRM project.&lt;/p&gt;
+&lt;h3 id=&#34;csrm-10-a-china-seismological-reference-model-of-the-crust-and-uppermost-mantle&#34;&gt;&lt;strong&gt;CSRM-1.0: A China Seismological Reference Model of the crust and uppermost mantle&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We construct a high-resolution China Seismological Reference Model (CSRM-1.0) in the top 100 km of the crust and uppermost mantle in continental China following a top-down construction process. The employed seismic constraints include P-wave polarization angle from tele-seismic event, short-period Rayleigh wave ellipticity from ambient noise, long-period Rayleigh wave ellipticity from earthquake data, receiver function, empirical Green’s function from ambient noise, Rayleigh wave phase/group velocity dispersion curves from regional earthquakes, and Pn-wave travel time extracted from seismic data of 4435 stations. CSRM-1.0 has a spatial crustal resolution of ~60 km beneath the north-south seismic belt and trans-North China orogen regions and ~120 km beneath the rest of continental China, and a spatial mantle resolution of ~300 km. CSRM-1.0 exhibits prominent velocity heterogeneities in the crust and uppermost mantle and an eastward thinning of the crust, geographically correlating with geological settings. CSRM-1.0 improvements include accurate estimation of shallow seismic structure, increased spatial resolution and improved model accuracy. Crustal composition inferred from CSRM-1.0 exhibits a general transition from a felsic upper crust to a mafic lower crust. Mafic rocks in the lower crust are found predominantly along inter-block boundaries and sporadically within the interiors of blocks, likely resulted from preferential inter-block intrusions of magmas related to various oceanic plate subductions and the Emeishan mantle plume. This study contributes seismic constraints and CSRM-1.0 to the CSRM product center (&lt;a href=&#34;http://chinageorefmodel.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://chinageorefmodel.org&lt;/a&gt;) as a backbone open-access geophysical cyberinfrastructure. (&lt;a href=&#34;https://me.seispider.info/publication/2024_csrm-1.0/&#34;&gt;&lt;strong&gt;Paper Link&lt;/strong&gt;&lt;/a&gt;)&lt;/p&gt;
 
 
 
@@ -46,49 +47,8 @@
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       CSRM-1.0 Vs structure
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;!-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-csrm-10-vp-structure&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;CSRM-1.0-Vp.png&#34; alt=&#34;CSRM-1.0 Vp structure&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-      CSRM-1.0 Vp structure
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-csrm-10-moho-and-mantal-structure&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;CSRM-1.0-Moho.png&#34; alt=&#34;CSRM-1.0 Moho structure&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-      CSRM-1.0 Moho and mantal structure
-    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
-&lt;h2 id=&#34;shallow-3d-shear-wave-velocity-model-of-the-uppermost-crust-beneath-the-continental-china&#34;&gt;Shallow 3D shear wave velocity model of the uppermost crust beneath the continental China&lt;/h2&gt;
-&lt;p&gt;We construct a high-resolution shallow three-dimensional (3D) seismic model in the top 10 km of the upper crust in the continental China, with constraints of P polarization, Rayleigh wave ellipticity and receiver function obtained from records of 3848 seismic stations. Our 3D seismic model has a spatial resolution of $0.6°-1.2^°$ in the north-south seismic belt and the trans-north China orogen, and $1^°-2^°$ in the rest of the continental China (except the Tarim basin and the southwest Tibet). The seismic model exhibits low velocity anomalies of deposits in major sedimentary basins and high velocity anomalies of crustal bedrocks in young orogenic belts and old tectonic blocks. The inferred sediment thickness maps display thick deposits in major sedimentary basins, some compacted sediments in the intermontane basins in young orogenic belts and little sediments in old tectonic blocks. We also discuss compaction effects of the sediments and implications of tectonic history and geological evolution of the major basins in the continental China based on the inferred seismic models.&lt;/p&gt;
+&lt;h3 id=&#34;shallow-3d-shear-wave-velocity-model-of-the-uppermost-crust-beneath-the-continental-china&#34;&gt;&lt;strong&gt;Shallow 3D shear wave velocity model of the uppermost crust beneath the continental China&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We construct a high-resolution shallow three-dimensional (3D) seismic model in the top 10 km of the upper crust in the continental China, with constraints of P polarization, Rayleigh wave ellipticity and receiver function obtained from records of 3848 seismic stations. Our 3D seismic model has a spatial resolution of $0.6°-1.2^°$ in the north-south seismic belt and the trans-north China orogen, and $1^°-2^°$ in the rest of the continental China (except the Tarim basin and the southwest Tibet). The seismic model exhibits low velocity anomalies of deposits in major sedimentary basins and high velocity anomalies of crustal bedrocks in young orogenic belts and old tectonic blocks. The inferred sediment thickness maps display thick deposits in major sedimentary basins, some compacted sediments in the intermontane basins in young orogenic belts and little sediments in old tectonic blocks. We also discuss compaction effects of the sediments and implications of tectonic history and geological evolution of the major basins in the continental China based on the inferred seismic models. (&lt;a href=&#34;https://me.seispider.info/publication/2021_china-seismic-structure-shallow-crust/&#34;&gt;&lt;strong&gt;Paper Link&lt;/strong&gt;&lt;/a&gt;)&lt;/p&gt;
 
 
 
@@ -125,7 +85,7 @@
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://me.seispider.info/project/seismic-tomography-method/</guid>
       <description>&lt;h2 id=&#34;simultaneous-inversion-for-surface-wave-phase-velocity-and-earthquake-centroid-parameters&#34;&gt;Simultaneous inversion for surface wave phase velocity and earthquake centroid parameters&lt;/h2&gt;
-&lt;p&gt;We develope a new method to simultaneously determine surface wave phase velocity and earthquake centroid parameters in three steps: 1) preliminary phase velocity inversion based on seismic ambient noise, 2) preliminary earthquake relocation based on earthquake surface wave data, and 3) simultaneous inversion for phase velocity and earthquake centroid parameters with constraints of inter-station phase velocity measurements based on seismic ambient noise and event-station phase velocity measurements based on earthquake surface wave data. Application of the method in the North South Seismic Belt region in China results in high-resolution Rayleigh wave phase velocity maps and accurate earthquake centroid parameters. The additional earthquake data notably improve resolution of the inverted phase velocity model in west Yunnan and central Tibetan blocks, the regions with sparse seismic station coverage. The inverted phase velocity model exhibits high-velocity anomalies in cratonic regions and the Emeishan Large Igneous Province, and low-velocity anomalies in the interior and surrounding regions of the Tibetan Plateau. Relocation places earthquakes in shallow depths with geotherm above the crustal rock’s brittle-ductile transition temperature of ~400℃, revealing thermal control on thickness of the seismogenic zone. With earthquake centroid parameters constrained, earthquake data are expected to provide further constraints on the deep seismic structure that is beyond the sampling limit of seismic ambient noise.&lt;/p&gt;
+&lt;p&gt;We develope a new method to simultaneously determine surface wave phase velocity and earthquake centroid parameters in three steps: 1) preliminary phase velocity inversion based on seismic ambient noise, 2) preliminary earthquake relocation based on earthquake surface wave data, and 3) simultaneous inversion for phase velocity and earthquake centroid parameters with constraints of inter-station phase velocity measurements based on seismic ambient noise and event-station phase velocity measurements based on earthquake surface wave data. Application of the method in the North South Seismic Belt region in China results in high-resolution Rayleigh wave phase velocity maps and accurate earthquake centroid parameters. The additional earthquake data notably improve resolution of the inverted phase velocity model in west Yunnan and central Tibetan blocks, the regions with sparse seismic station coverage. The inverted phase velocity model exhibits high-velocity anomalies in cratonic regions and the Emeishan Large Igneous Province, and low-velocity anomalies in the interior and surrounding regions of the Tibetan Plateau. Relocation places earthquakes in shallow depths with geotherm above the crustal rock’s brittle-ductile transition temperature of ~400℃, revealing thermal control on thickness of the seismogenic zone. With earthquake centroid parameters constrained, earthquake data are expected to provide further constraints on the deep seismic structure that is beyond the sampling limit of seismic ambient noise. (&lt;a href=&#34;https://me.seispider.info/publication/2022_simultaneous-inversion-phase-velocity-and-source/&#34;&gt;&lt;strong&gt;Paper Link&lt;/strong&gt;&lt;/a&gt;)&lt;/p&gt;
 
 
 
