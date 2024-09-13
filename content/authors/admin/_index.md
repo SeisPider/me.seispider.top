@@ -6,28 +6,29 @@ title: "Xiao Xiao"
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate of Geophysics
+role: Postdoctral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Science and Technology of China
+- name: Nanyang Technological University
   url: https://www.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include seismic tomography and earthquake location.
+bio: My research interests include seismic tomography, earthquake location and geodynamic modelling.
 
 # Interests to show in About widget
 interests:
-- Seismic tomography
-- Seismic ambient noise source analysis 
-- Earthquake location
+- Structure and Evolution of the Earth's Lithosphere
+- Theory and Application of Seismic Tomography
+- Observations of Seismic Sources
+- Geodynamic Modelling
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Geophysics
     institution: University of Science and Technology of China
-    year: 2023 (expected)
+    year: 2023
   - course: BSc in Geophysics
     institution: Wuhan University
     year: 2017
@@ -63,8 +64,6 @@ email: "xiaox.seis@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-**Xiao Xiao** is a PhD candidate in Geophysics at
-[University of Science and Technology of China](http://en.ustc.edu.cn/),
-supervised by Prof. Lianxing Wen.
+**Xiao Xiao** is a Postdoctral Research Fellow at the Nanyang Technological University, supervised by Prof. Ping Tong. He received PhD in Geophysics at [University of Science and Technology of China](http://en.ustc.edu.cn/) under the guidance of Prof. Lianxing Wen.
 
-His research is directed toward understanding the Earth's structure in the crust and upper mantle with seismological tools (e.g., seismic tomography and receiver function analysis). 
+His research is directed toward understanding the Earth's structure in the crust and upper mantle with seismological (e.g., seismic tomography and receiver function analysis) and geodynamical tools. 

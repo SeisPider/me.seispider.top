@@ -27,15 +27,15 @@ content:
   # Contact details (edit or remove options as required)
   email: xiaox.seis@gmail.com
   address:
-    street: Jinzhai Road
-    city: Hefei
-    region: Anhui
-    postcode: '230026'
-    country: China
+    street: 50 Nanyang Ave
+    city: Singapore
+    region: 
+    postcode: '639798'
+    country: Singapore
     country_code: 
   coordinates:
-    latitude: '31.841339'
-    longitude: '117.270375'
+    latitude: '103.5'
+    longitude: '1.0'
 
 design:
   columns: '2'
